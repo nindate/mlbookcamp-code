@@ -11,6 +11,7 @@
 - 5.9 [Explore more](09-explore-more.md)
 - 5.10 [Homework](homework.md)
 
+
 ## Community notes
 
 Did you take notes? You can share them here (or in each unit separately)
@@ -18,3 +19,10 @@ Did you take notes? You can share them here (or in each unit separately)
 [Using PythonAnywhere to host your Python Web App for free!!! (an an alternative to AWS/Azure/Google cloud)](https://github.com/nindate/ml-zoomcamp-exercises/blob/main/how-to-use-pythonanywhere.md)
 
 * Add your notes here
+
+### Deployment tutorials
+
+* [Deploy Churn Service on Heroku](https://github.com/razekmaiden/churn_service_heroku.git)
+* [Using PythonAnywhere to host your Python Web App for free!!! (an an alternative to AWS/Azure/Google cloud)](https://github.com/nindate/ml-zoomcamp-exercises/blob/main/how-to-use-pythonanywhere.md)
+* Add your tutorials here
+
